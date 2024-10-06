@@ -2,7 +2,7 @@
 
 <h2> Information Technology Projects</h2>
 
--<b>osTicket (Help Desk Ticketing)</b>
+- <b>osTicket (Help Desk Ticketing)</b>
   -[osTicket: Post-Installation Configuration] (https://github.com/jeffvangrouw/post-install-config)
   -[osTicket: Ticket Lifecycle Examples] (https://github.com/jeffvangrouw/ticket-lifecyle) 
   
@@ -12,12 +12,12 @@
 
   <h2>Connect with me</h2>
 
-  [<img align="left"Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>[twitter]
-  [<img align="left"Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>[linkedin]
-  [<img align="left"Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>[instagram]
+  [<img align="left" alt= "Jeff" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>[twitter]
+  [<img align="left" alt= "Jeff" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>[linkedin]
+  [<img align="left" alt= "Jeff" | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>[instagram]
 
   [twitter]: https://twitter.com/Jeff
   [instagram]: https://www.Instagram.com/Jeff
-  {linkedin]: https://www.linkedin.com/Jeff
+  [linkedin]: https://www.linkedin.com/Jeff
  
   
