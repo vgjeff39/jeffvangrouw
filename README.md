@@ -8,4 +8,16 @@
   
  -<b>Microsoft Azure</b> 
   -[Configuring Active Directory within Azure VMs] (https://github.com/jeffvangrouw/configure-ad)
+  -[Network Security Groups (NSGs) and INspecting Network Protocols] (https://github.com/jeffvangrouw/azure-network-protocols)
+
+  <h2>Connect with me</h2>
+
+  [<img align="left"Josh | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg"/>[twitter]
+  [<img align="left"Josh | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"/>[linkedin]
+  [<img align="left"Josh | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg"/>[instagram]
+
+  [twitter]: https://twitter.com/Jeff
+  [instagram]: https://www.Instagram.com/Jeff
+  {linkedin]: https://www.linkedin.com/Jeff
+ 
   
