@@ -15,7 +15,7 @@
 
 
 [instagram]: https://www.instagram.com/vgjeff37
-[linkedin]: www.linkedin.com/in/jeff-van-grouw
+[linkedin]: https://www.linkedin.com/in/jeff-van-grouw
 
 
 
